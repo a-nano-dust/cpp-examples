@@ -3,3 +3,4 @@
 project(cpp-examples CXX)
 
 add_subdirectory(atomic)
+add_subdirectory(va_args)
